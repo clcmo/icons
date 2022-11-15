@@ -1,4 +1,4 @@
-# Icons
+# Icons from @visualmodo
 
 [![GitHub license](https://img.shields.io/github/license/visualmodo/icons?style=for-the-badge)](https://github.com/visualmodo/icons)
 [![GitHub stars](https://img.shields.io/github/stars/visualmodo/icons?style=for-the-badge)](https://github.com/visualmodo/icons/stargazers)
